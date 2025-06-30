@@ -53,3 +53,6 @@ run
 ```bash
 python3 train.py
 ```
+we put the notebook for all this code in this repository but if you want you can check it in my kaggle account 
+in this like https://www.kaggle.com/code/nimadanesh/colorization-image-with-pix2pix and don't forget to vote.
+thanks for following this project.
